@@ -1,4 +1,4 @@
-package com.ayaanle.alarm_clock.ui.slideshow
+package com.ayaanle.alarm_clock.fragment
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,6 +8,7 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.ayaanle.alarm_clock.databinding.FragmentSlideshowBinding
+import com.ayaanle.alarm_clock.mvvm.SlideshowViewModel
 
 class SlideshowFragment : Fragment() {
 

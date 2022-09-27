@@ -1,4 +1,4 @@
-package com.ayaanle.alarm_clock.ui.home
+package com.ayaanle.alarm_clock.mvvm
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
